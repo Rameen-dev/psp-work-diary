@@ -1,7 +1,9 @@
-# Professional Software Projects GitHub Diary Guidance
+# Professional Software Projects GitHub Diary
 
-This repo contains
+## Student Information
+- Name: Rameen Burdabar
+- Student ID: C4010606
+- Team Name: IBM
 
-- a [guide](guide.md) to using GitHub for diary submissions.
-- a [sample readme.md](sample-readme.md) file page to create.
-- suggested [weekly themes](weekly-themes.md) and structure for your diary.
+## Description
+This repository contains my individual contribution diary for the Professional Software Projects module.
